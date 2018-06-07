@@ -1,0 +1,11 @@
+C:\Users\Meghana.Thiruchuri\source\repos\adonetdetails\adonetdetails\obj\Debug\netcoreapp2.0\adonetdetails.csprojAssemblyReference.cache
+C:\Users\Meghana.Thiruchuri\source\repos\adonetdetails\adonetdetails\obj\Debug\netcoreapp2.0\adonetdetails.csproj.CoreCompileInputs.cache
+C:\Users\Meghana.Thiruchuri\source\repos\adonetdetails\adonetdetails\obj\Debug\netcoreapp2.0\adonetdetails.AssemblyInfoInputs.cache
+C:\Users\Meghana.Thiruchuri\source\repos\adonetdetails\adonetdetails\obj\Debug\netcoreapp2.0\adonetdetails.AssemblyInfo.cs
+C:\Users\Meghana.Thiruchuri\source\repos\adonetdetails\adonetdetails\bin\Debug\netcoreapp2.0\adonetdetails.deps.json
+C:\Users\Meghana.Thiruchuri\source\repos\adonetdetails\adonetdetails\bin\Debug\netcoreapp2.0\adonetdetails.runtimeconfig.json
+C:\Users\Meghana.Thiruchuri\source\repos\adonetdetails\adonetdetails\bin\Debug\netcoreapp2.0\adonetdetails.runtimeconfig.dev.json
+C:\Users\Meghana.Thiruchuri\source\repos\adonetdetails\adonetdetails\bin\Debug\netcoreapp2.0\adonetdetails.dll
+C:\Users\Meghana.Thiruchuri\source\repos\adonetdetails\adonetdetails\bin\Debug\netcoreapp2.0\adonetdetails.pdb
+C:\Users\Meghana.Thiruchuri\source\repos\adonetdetails\adonetdetails\obj\Debug\netcoreapp2.0\adonetdetails.dll
+C:\Users\Meghana.Thiruchuri\source\repos\adonetdetails\adonetdetails\obj\Debug\netcoreapp2.0\adonetdetails.pdb
